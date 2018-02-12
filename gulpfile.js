@@ -14,3 +14,12 @@ gulp.task('appServer' , function(){
 
 	gulp.watch(['build/**/*.*','src/**/*.*']).on('change', browserSync.reload);
 })
+
+gulp.task('testServer', function(){
+	//task
+})
+
+
+//gulp.task(['appServer', 'testServer']);
+
+gulp.task('default', ['appServer']);
