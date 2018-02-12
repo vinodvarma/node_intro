@@ -1,0 +1,30 @@
+{
+  "name": "nodeday1",
+  "version": "1.0.0",
+  "description": "This folder is for node traing",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bower": "^1.8.2",
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "jasmine": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodvarma/devops.git"
+  },
+  "author": "Vinod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinodvarma/devops/issues"
+  },
+  "homepage": "https://github.com/vinodvarma/devops#readme",
+  "keywords": [
+    "nodejs"
+  ]
+}
